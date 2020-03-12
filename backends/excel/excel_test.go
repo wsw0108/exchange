@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/360EntSecGroup-Skylar/excelize"
+	"github.com/360EntSecGroup-Skylar/excelize/v2"
 	"github.com/qor/exchange"
 	"github.com/qor/exchange/backends/excel"
 	"github.com/qor/exchange/tests"

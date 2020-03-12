@@ -3,7 +3,6 @@ module github.com/qor/exchange
 go 1.13
 
 require (
-	github.com/360EntSecGroup-Skylar/excelize v1.4.1
 	github.com/360EntSecGroup-Skylar/excelize/v2 v2.1.0
 	github.com/asaskevich/govalidator v0.0.0-20200108200545-475eaeb16496 // indirect
 	github.com/gosimple/slug v1.9.0 // indirect
